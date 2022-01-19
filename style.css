@@ -1,0 +1,18 @@
+*{
+    background-color: yellow;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 30px; 
+}
+
+.green{
+    color: blue;
+}
+
+td{
+    font-weight: bold;
+    padding: 15px;
+}
