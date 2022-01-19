@@ -15,4 +15,9 @@ table{
 td{
     font-weight: bold;
     padding: 15px;
+    color: red;
+}
+
+.color{
+    color: blueviolet;
 }
